@@ -4004,6 +4004,10 @@ packages:
 
     "Ian Graves <thegravian@gmail.com> @igraves":
         - monad-resumption
+        
+    "Akos Marton <makos999@protonmail.ch> @mmzx":
+        - erd
+     
 
     "Grandfathered dependencies":
         - network
